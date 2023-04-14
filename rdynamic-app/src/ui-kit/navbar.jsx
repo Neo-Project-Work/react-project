@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import { ShoppingCart} from "phosphor-react"
-import { } from "../components/navbar.css"
+import { } from "../ui-kit/navbar.css"
 
 export const Navbar = () => {
     return (
